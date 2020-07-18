@@ -18,7 +18,7 @@ font-family: arial
 }
 .img {
 	width: 400px;
-	 position: center;
+	 float: : center;
   background-color: white;
   padding: 40px;
    box-sizing: border-box;
@@ -41,12 +41,14 @@ font-family: arial
 }
 .VG{
 	  width: 30%;
+    
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 15px;
 }
 .CS{
 	  width: 30%;
+
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 15px;
@@ -130,5 +132,4 @@ background-color: pink;
   padding: 5px 20px 15px 20px;
   border: 1px solid lightgrey;
   text-align: center;
-}
 }
